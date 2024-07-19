@@ -3,7 +3,7 @@ Mitigating Biases in Datasets &amp; Models
 
 ## team project for Uoft-CSC2529: Computational Imaging
 
-## team member: Sophiamf1110@gmail.com; qianyili415@outlook.com
+## team member: Sophiamf1110@gmail.com; qianyili415@outlook.com; me
 
 ## description:
 - Data Analysis: analyzed the imbalance situation of Fitzpatrick17k dataset and predicted classification accuracy using ResNet18 model
